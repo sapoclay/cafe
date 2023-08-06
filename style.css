@@ -529,18 +529,18 @@ a {
 }
 
 /* Cafe Au Lait */
-.cafe-au-lait .steamed-milk {
+.con-leche .steamed-milk {
     color: rgba(0,0,0, 1);
     height: 50%;
     padding-top: 10px;
     border-top: 1px dashed rgba(75, 75, 75, 0.3);
 }
-.cafe-au-lait .steamed-milk::before {
+.con-leche .steamed-milk::before {
     background: #faf8f5;
     border-bottom: 1px dashed rgba(75, 75, 75, 0.5);
     opacity: 1;
 }
-.cafe-au-lait .coffee {
+.con-leche .coffee {
     margin-top: -16px;
     color: rgba(255,255,255, 1);
     height: 50%;
